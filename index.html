@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mafatih Data Download</title>
+  <!-- Google Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    :root {
+      --primary: #6366f1;
+      --primary-hover: #4f46e5;
+      --bg-gradient: radial-gradient(circle at top left, #1e1b4b, #0f172a);
+      --glass-bg: rgba(255, 255, 255, 0.05);
+      --glass-border: rgba(255, 255, 255, 0.1);
+      --text-main: #f8fafc;
+      --text-dim: #94a3b8;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Inter', sans-serif;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--bg-gradient);
+      color: var(--text-main);
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* Animated Background Blobs */
+    .blob {
+      position: absolute;
+      width: 500px;
+      height: 500px;
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.2), rgba(168, 85, 247, 0.2));
+      filter: blur(80px);
+      border-radius: 50%;
+      z-index: -1;
+      animation: move 20s infinite alternate;
+    }
+
+    .blob-1 {
+      top: -10%;
+      left: -10%;
+    }
+
+    .blob-2 {
+      bottom: -10%;
+      right: -10%;
+      animation-delay: -5s;
+    }
+
+    @keyframes move {
+      from {
+        transform: translate(0, 0) scale(1);
+      }
+
+      to {
+        transform: translate(100px, 50px) scale(1.1);
+      }
+    }
+
+    .container {
+      width: 100%;
+      max-width: 480px;
+      padding: 2rem;
+      z-index: 10;
+    }
+
+    .card {
+      background: var(--glass-bg);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid var(--glass-border);
+      border-radius: 24px;
+      padding: 3rem 2rem;
+      text-align: center;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+      transition: transform 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+    }
+
+    .icon-wrapper {
+      width: 80px;
+      height: 80px;
+      background: rgba(99, 102, 241, 0.1);
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 1.5rem;
+      color: var(--primary);
+    }
+
+    h1 {
+      font-size: 1.875rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+      letter-spacing: -0.025em;
+    }
+
+    p {
+      color: var(--text-dim);
+      font-size: 1rem;
+      line-height: 1.6;
+      margin-bottom: 2.5rem;
+    }
+
+    .download-btn {
+      width: 100%;
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 1rem 1.5rem;
+      border-radius: 12px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75rem;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .download-btn:hover {
+      background: var(--primary-hover);
+      transform: scale(1.02);
+      box-shadow: 0 10px 15px -3px rgba(99, 102, 241, 0.4);
+    }
+
+    .download-btn:active {
+      transform: scale(0.98);
+    }
+
+    .download-btn:disabled {
+      opacity: 0.7;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .btn-text {
+      position: relative;
+      z-index: 1;
+    }
+
+    /* Loading Spinner */
+    .spinner {
+      display: none;
+      width: 20px;
+      height: 20px;
+      border: 3px solid rgba(255, 255, 255, 0.3);
+      border-radius: 50%;
+      border-top-color: #fff;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .loading .spinner {
+      display: block;
+    }
+
+    .loading i {
+      display: none;
+    }
+
+    .loading .btn-text {
+      content: "Downloading...";
+    }
+
+    .footer-note {
+      margin-top: 1.5rem;
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+    }
+
+    /* Toast Notification */
+    #toast {
+      position: fixed;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: #10b981;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border-radius: 99px;
+      font-size: 0.875rem;
+      font-weight: 500;
+      transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
+    }
+
+    #toast.show {
+      transform: translateX(-50%) translateY(0);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+
+  <div class="container">
+    <div class="card">
+      <div class="icon-wrapper">
+        <i data-lucide="database" size="40"></i>
+      </div>
+      <h1>Mafatih Data</h1>
+      <p>Download the complete chapters JSON file for the Mafatih server application.</p>
+
+      <button id="downloadBtn" class="download-btn">
+        <i data-lucide="download" size="20"></i>
+        <div class="spinner"></div>
+        <span class="btn-text" id="btnText">Download JSON</span>
+      </button>
+
+      <div class="footer-note">
+        <i data-lucide="shield-check" size="14"></i>
+        Source: GitHub - aminpaydar/Mafatih
+      </div>
+    </div>
+  </div>
+
+  <div id="toast">File downloaded successfully!</div>
+
+  <script>
+    // Initialize Lucide icons
+    lucide.createIcons();
+
+    const downloadBtn = document.getElementById('downloadBtn');
+    const btnText = document.getElementById('btnText');
+    const toast = document.getElementById('toast');
+    const url = 'https://raw.githubusercontent.com/aminpaydar/Mafatih/master/mafatih-server/chapters.json';
+
+    downloadBtn.addEventListener('click', async () => {
+      try {
+        // Set loading state
+        downloadBtn.classList.add('loading');
+        downloadBtn.disabled = true;
+        btnText.textContent = 'Fetching...';
+
+        const response = await fetch(url);
+        if (!response.ok) throw new Error('Network response was not ok');
+
+        const blob = await response.blob();
+        const downloadUrl = window.URL.createObjectURL(blob);
+
+        const a = document.createElement('a');
+        a.style.display = 'none';
+        a.href = downloadUrl;
+        a.download = 'chapters.json';
+
+        document.body.appendChild(a);
+        a.click();
+
+        window.URL.revokeObjectURL(downloadUrl);
+        document.body.removeChild(a);
+
+        // Success feedback
+        showToast('Download started successfully!', '#10b981');
+
+      } catch (error) {
+        console.error('Download failed:', error);
+        showToast('Failed to download file. Please try again.', '#ef4444');
+      } finally {
+        // Reset state
+        downloadBtn.classList.remove('loading');
+        downloadBtn.disabled = false;
+        btnText.textContent = 'Download JSON';
+      }
+    });
+
+    function showToast(message, color) {
+      toast.textContent = message;
+      toast.style.backgroundColor = color;
+      toast.classList.add('show');
+      setTimeout(() => {
+        toast.classList.remove('show');
+      }, 3000);
+    }
+  </script>
+</body>
+
+</html>
