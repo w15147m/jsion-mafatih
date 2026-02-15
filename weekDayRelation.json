@@ -1,0 +1,65 @@
+[
+  {
+    "day": "Saturday",
+    "events": [
+      "Saturday Supplication"
+    ],
+    "article_slugs": [
+      "/mafatih11/دعای-روز-شنبه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
+    ]
+  },
+  {
+    "day": "Sunday",
+    "events": [
+      "Sunday Supplication"
+    ],
+    "article_slugs": [
+      "/mafatih12/دعای-روز-یکشنبه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
+    ]
+  },
+  {
+    "day": "Monday",
+    "events": [
+      "Monday Supplication"
+    ],
+    "article_slugs": [
+      "/mafatih13/دعای-روز-دوشنبه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "events": [
+      "Tuesday Supplication"
+    ],
+    "article_slugs": [
+      "/mafatih14/دعای-روز-سه-شنبه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "events": [
+      "Wednesday Supplication"
+    ],
+    "article_slugs": [
+      "/mafatih15/دعای-روز-چهارشنبه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
+    ]
+  },
+  {
+    "day": "Thursday",
+    "events": [
+      "Thursday Supplication"
+    ],
+    "article_slugs": [
+      "/mafatih16/دعای-روز-پنجشنبه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
+    ]
+  },
+  {
+    "day": "Friday",
+    "events": [
+      "Friday Supplication"
+    ],
+    "article_slugs": [
+      "/mafatih17/دعای-روز-جمعه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
+    ]
+  }
+]
