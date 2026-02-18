@@ -1,1867 +1,543 @@
 [
   {
-    "id": 1,
-    "name": "Muharram",
-    "days": {
-      "1": {
-        "events": [
-          "Muharram New Year"
-        ],
-        "article_slugs": [
-          "/mafatih166/اعمال-ماه-محرم-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [
-          "Tasu'a"
-        ],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [
-          "Ashura"
-        ],
-        "article_slugs": [
-          "/mafatih168/اعمال-شب-عاشورا-و-روز-آن-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "11": {
-        "events": [],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [],
-        "article_slugs": []
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [
-          "Martyrdom of Imam Sajjad (as)"
-        ],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 2,
-    "name": "Safar",
-    "days": {
-      "1": {
-        "events": [],
-        "article_slugs": [
-          "/mafatih172/بیان-نحوست-ماه-صفر-و-راه-رفع-آن-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [],
-        "article_slugs": []
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [
-          "Arbaeen"
-        ],
-        "article_slugs": [
-          "/mafatih174/روز-اربعین-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [
-          "Demise of Prophet Muhammad (saw)"
-        ],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [
-          "Martyrdom of Imam Reza (as)"
-        ],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 3,
-    "name": "Rabi al-Awwal",
-    "days": {
-      "1": {
-        "events": [
-          "Laylat al-Mabit"
-        ],
-        "article_slugs": []
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [
-          "Martyrdom of Imam Askari (as)"
-        ],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [
-          "Eid-e-Zahra"
-        ],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [
-          "Milad un Nabi (Sunni)"
-        ],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [],
-        "article_slugs": []
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [
-          "Birth of Prophet Muhammad (saw) & Imam Sadiq (as)"
-        ],
-        "article_slugs": [
-          "/mafatih178/اعمال-روز-هفدهم-روز-مولود-حضرت-رسول-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 4,
-    "name": "Rabi al-Thani",
-    "days": {
-      "1": {
-        "events": [],
-        "article_slugs": [
-          "/mafatih183/اعمال--هر-ماه-نو-و-نماز-اول-آن-ماه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [
-          "Birth of Imam Askari (as)"
-        ],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [],
-        "article_slugs": []
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 5,
-    "name": "Jumada al-Ula",
-    "days": {
-      "1": {
-        "events": [],
-        "article_slugs": []
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [
-          "Birth of Hazrat Zainab (sa)"
-        ],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [
-          "Martyrdom of Hazrat Fatima (sa) - 1st روایت"
-        ],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [
-          "Birth of Imam Sajjad (as)"
-        ],
-        "article_slugs": []
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 6,
-    "name": "Jumada al-Akhira",
-    "days": {
-      "1": {
-        "events": [],
-        "article_slugs": []
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [
-          "Martyrdom of Hazrat Fatima (sa)"
-        ],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [],
-        "article_slugs": []
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [
-          "Birth of Hazrat Fatima (sa)"
-        ],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 7,
-    "name": "Rajab",
-    "days": {
-      "1": {
-        "events": [
-          "1st Rajab",
-          "Birth of Imam Baqir (as)"
-        ],
-        "article_slugs": [
-          "/mafatih84/دعاهای-هر-روز-ماه-رجب-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih103/اعمال-شب-و-روز-اول-ماه-رجب-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [
-          "Martyrdom of Imam Hadi (as)"
-        ],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [
-          "Birth of Imam Jawad (as)"
-        ],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [
-          "Birth of Imam Ali (as)",
-          "Ayyam al-Beed"
-        ],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [
-          "Ayyam al-Beed"
-        ],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [
-          "Martyrdom of Hazrat Zainab (sa)",
-          "Umm Dawood Actions"
-        ],
-        "article_slugs": [
-          "/mafatih92/اعمال-شب-و-روز-نیمه-رجب-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih93/عمل-و-دعای-ام-داود-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [
-          "Martyrdom of Imam Musa Kazim (as)"
-        ],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [
-          "Eid al-Mab'ath"
-        ],
-        "article_slugs": [
-          "/mafatih94/اعمال-شب-مبعث-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 8,
-    "name": "Sha'ban",
-    "days": {
-      "1": {
-        "events": [
-          "1st Shaban"
-        ],
-        "article_slugs": [
-          "/mafatih103/خبری-شریف-در-فضیلت-روز-اول-شعبان-مشتمل-بر-فوائد-کثیره-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [
-          "Birth of Imam Hussain (as)"
-        ],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [
-          "Birth of Hazrat Abbas (as)"
-        ],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [
-          "Birth of Imam Sajjad (as)"
-        ],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [
-          "Birth of Hazrat Ali Akbar (as)"
-        ],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [
-          "Birth of Imam Mahdi (ajtfs)",
-          "Nisf Shaban"
-        ],
-        "article_slugs": [
-          "/mafatih105/فضیلت-و-اعمال-شب-نیمه-شعبان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih106/روز-نیمه-شعبان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 9,
-    "name": "Ramadan",
-    "General": {
-      "events": [
-        "Virtues of Ramadan",
-        "Common A'mal of Ramadan",
-        "Duas after Obligatory Prayers",
-        "Duas after Nafila Prayers",
-        "Iftar A'mal",
-        "10 Tasbihat Daily",
-        "Daily Salawat",
-        "Dua Iftitah",
-        "1000 Rak'at Prayer",
-        "A'mal of Suhoor",
-        "Dua Sahar (Common/Baha)",
-        "Dua Sahar (Other/Uddati)",
-        "Shortest Sahar Duas",
-        "Tasbihat of Suhoor",
-        "Dua Abu Hamza Thumali",
-        "Dua Hijj",
-        "Daily A'mal & Duas"
-      ],
-      "article_slugs": [
-        "/mafatih108/خطبه-حضرت-رسول-(ص)-در-فضیلت-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih103/اعمال-مشترک-ماه-مبارک-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih109/اعمال-شب-و-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih109/اعمال-شب-و-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih109/اعمال-شب-و-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih120/اعمال-و-دعاهای-روزهای-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih121/تسبیحات-و-صلوات-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih111/دعای-افتتاح-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih113/کیفیت-هزار-رکعت-نماز-در-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih114/اعمال-سحرها-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih115/دعای-سحر-معروف-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih117/دعای-سحر-دیگر-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih118/مختصرترین-دعاهای-سحر-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih119/تسبیحات-در-سحر-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih116/ابوحمزه-ثمالی-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih110/دعای-حج-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih120/اعمال-و-دعاهای-روزهای-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-      ]
-    },
-    "special": {
-      "events": [
-        "Moon Sighting & 1st Night",
-        "Day 1 A'mal",
-        "Night 13 A'mal",
-        "Night 15 A'mal",
-        "Night 17 A'mal",
-        "Common A'mal of Laylat al-Qadr",
-        "19th Night A'mal",
-        "21st Night A'mal",
-        "23rd Night A'mal",
-        "Nights of Last 10 Days",
-        "Last Night A'mal",
-        "Last Day A'mal",
-        "Eid-ul-Fitr A'mal"
-      ],
-      "article_slugs": [
-        "/mafatih122/اعمال-شب-اول-و-رویت-هلال-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih125/اعمال-روز-اول-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih126/اعمال-شب-سیزدهم-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih127/اعمال-شب-نیمه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih128/اعمال-شب-هفتم-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih129/اعمال-شب-های-قدر-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih130/اعمال-شب-نوزدهم-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih131/اعمال-شب-بیست-ویکم-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih135/اعمال-مخصوصه-شب-بیست-و-سوم-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih138/اعمال-شبهای-دهه-ی-آخر-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih143/اعمال-شب-آخر-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih145/دعای-روز-سی-ام-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-        "/mafatih148/اعمال-شب-اول-ماه-شوال-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-      ]
-    },
-    "days": {
-      "1": {
-        "events": [
-          "1st Ramadan",
-          "Dua Day 1"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "2": {
-        "events": [
-          "Dua Day 2"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "3": {
-        "events": [
-          "Dua Day 3"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "4": {
-        "events": [
-          "Dua Day 4"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "5": {
-        "events": [
-          "Dua Day 5"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "6": {
-        "events": [
-          "Dua Day 6"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "7": {
-        "events": [
-          "Dua Day 7"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "8": {
-        "events": [
-          "Dua Day 8"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "9": {
-        "events": [
-          "Dua Day 9"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "10": {
-        "events": [
-          "Death of Hazrat Khadija (sa)",
-          "Dua Day 10"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "11": {
-        "events": [
-          "Dua Day 11"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "12": {
-        "events": [
-          "Dua Day 12"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "13": {
-        "events": [
-          "Dua Day 13"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "14": {
-        "events": [
-          "Dua Day 14"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "15": {
-        "events": [
-          "Birth of Imam Hassan (as)",
-          "Dua Day 15"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "16": {
-        "events": [
-          "Dua Day 16"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "17": {
-        "events": [
-          "Battle of Badr",
-          "Dua Day 17"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "18": {
-        "events": [
-          "Night of Qadr (1st potential)",
-          "Dua Day 18"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "19": {
-        "events": [
-          "Strike on Imam Ali (as)",
-          "Laylatul Qadr",
-          "Dua Day 19"
-        ],
-        "article_slugs": [
-          "/mafatih130/اعمال-شب-نوزدهم-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih130/اعمال-شب-نوزدهم-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "20": {
-        "events": [
-          "Dua Day 20"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "21": {
-        "events": [
-          "Martyrdom of Imam Ali (as)",
-          "Laylatul Qadr",
-          "Dua Day 21"
-        ],
-        "article_slugs": [
-          "/mafatih131/اعمال-شب-بیست-و-یکم-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih133/بقیه-اعمال-شب-بیست-و-یکم-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "22": {
-        "events": [
-          "Dua Day 22"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "23": {
-        "events": [
-          "Laylatul Qadr (Strongest potential)",
-          "Dua Day 23"
-        ],
-        "article_slugs": [
-          "/mafatih135/اعمال-مخصوصه-شب-بیست-و-سوم-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "24": {
-        "events": [
-          "Dua Day 24"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "25": {
-        "events": [
-          "Dua Day 25"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "26": {
-        "events": [
-          "Dua Day 26"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "27": {
-        "events": [
-          "Dua Day 27"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "28": {
-        "events": [
-          "Dua Day 28"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "29": {
-        "events": [
-          "Dua Day 29"
-        ],
-        "article_slugs": [
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "30": {
-        "events": [
-          "Dua Day 30"
-        ],
-        "article_slugs": [
-          "/mafatih145/دعای-روز-سی-ام-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
-          "/mafatih147/دعای-مختصر-هر-روز-ماه-رمضان-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      }
-    }
-  },
-  {
-    "id": 10,
-    "name": "Shawwal",
-    "days": {
-      "1": {
-        "events": [
-          "Eid al-Fitr"
-        ],
-        "article_slugs": [
-          "/mafatih146/اعمال-شب-اول-ماه-شوال-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [
-          "Destruction of Jannat al-Baqi"
-        ],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [
-          "Martyrdom of Hazrat Hamza (ra)",
-          "Battle of Uhud"
-        ],
-        "article_slugs": []
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [
-          "Martyrdom of Imam Sadiq (as)"
-        ],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 11,
-    "name": "Dhu al-Qi'dah",
-    "days": {
-      "1": {
-        "events": [
-          "Birth of Hazrat Masuma (sa)"
-        ],
-        "article_slugs": [
-          "/mafatih148/اعمال-ماه-ذی-القعده-کلیات-فاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [],
-        "article_slugs": []
-      },
-      "10": {
-        "events": [],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [
-          "Birth of Imam Reza (as)"
-        ],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [],
-        "article_slugs": []
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [],
-        "article_slugs": []
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [
-          "Ziarat of Imam Reza (as) - Special Date"
-        ],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [
-          "Dahw al-Ard"
-        ],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [
-          "Martyrdom of Imam Jawad (as)"
-        ],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  },
-  {
-    "id": 12,
-    "name": "Dhu al-Hijjah",
-    "days": {
-      "1": {
-        "events": [
-          "Marriage of Imam Ali (as) & Hazrat Fatima (sa)"
-        ],
-        "article_slugs": [
-          "/mafatih162/اعمال-ماه-ذی-الحجه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "2": {
-        "events": [],
-        "article_slugs": []
-      },
-      "3": {
-        "events": [],
-        "article_slugs": []
-      },
-      "4": {
-        "events": [],
-        "article_slugs": []
-      },
-      "5": {
-        "events": [],
-        "article_slugs": []
-      },
-      "6": {
-        "events": [],
-        "article_slugs": []
-      },
-      "7": {
-        "events": [
-          "Martyrdom of Imam Baqir (as)"
-        ],
-        "article_slugs": []
-      },
-      "8": {
-        "events": [
-          "Tarwiyah Day"
-        ],
-        "article_slugs": []
-      },
-      "9": {
-        "events": [
-          "Day of Arafah"
-        ],
-        "article_slugs": [
-          "/mafatih159/اعمال-روز-عرفه-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "10": {
-        "events": [
-          "Eid al-Adha"
-        ],
-        "article_slugs": []
-      },
-      "11": {
-        "events": [],
-        "article_slugs": []
-      },
-      "12": {
-        "events": [],
-        "article_slugs": []
-      },
-      "13": {
-        "events": [],
-        "article_slugs": []
-      },
-      "14": {
-        "events": [],
-        "article_slugs": []
-      },
-      "15": {
-        "events": [
-          "Birth of Imam Hadi (as)"
-        ],
-        "article_slugs": []
-      },
-      "16": {
-        "events": [],
-        "article_slugs": []
-      },
-      "17": {
-        "events": [],
-        "article_slugs": []
-      },
-      "18": {
-        "events": [
-          "Eid al-Ghadir"
-        ],
-        "article_slugs": [
-          "/mafatih162/اعمال-شب-وروز-عید-غدیر-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان"
-        ]
-      },
-      "19": {
-        "events": [],
-        "article_slugs": []
-      },
-      "20": {
-        "events": [],
-        "article_slugs": []
-      },
-      "21": {
-        "events": [],
-        "article_slugs": []
-      },
-      "22": {
-        "events": [],
-        "article_slugs": []
-      },
-      "23": {
-        "events": [],
-        "article_slugs": []
-      },
-      "24": {
-        "events": [
-          "Eid al-Mubahala"
-        ],
-        "article_slugs": []
-      },
-      "25": {
-        "events": [
-          "Surah Dahr revelation"
-        ],
-        "article_slugs": []
-      },
-      "26": {
-        "events": [],
-        "article_slugs": []
-      },
-      "27": {
-        "events": [],
-        "article_slugs": []
-      },
-      "28": {
-        "events": [],
-        "article_slugs": []
-      },
-      "29": {
-        "events": [],
-        "article_slugs": []
-      },
-      "30": {
-        "events": [],
-        "article_slugs": []
-      }
-    }
-  }
-]
+    "title": "پہلا باب: دعائیں",
+    "sections": [
+      {
+        "articles": [
+          {
+            "href": "/mafatih2/تعقیبات-مشترک-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
+            "title": "مشترک تعقیبات",
+            "items": [
+              {
+                "content": "مصباح شیخ طوسی اور دیگر کتب سے منقول ہے: جب نماز کا سلام پھیریں تو ہاتھوں کو کانوں تک اٹھائیں اور تین بار تکبیر (اللہ اکبر) کہیں اور پھر کہیں:",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nلَا إلهَ إلَّا اللّهُ إلَهاً واحِداً وَ نَحْنُ لَهُ مُسْلِمُونَ لا إِلهَ إِلّا اللهُ وَ لا نَعْبُدُ\nإلاّ إيّاه مُخْلِصينَ لَهُ الدّينََ وَ لَوْ كَرِهَ الْمُشْرِكُونَ لا اِلهَ اِلا اللّهُ رَبُّنا وَ\nرَبُّ آبآئِنَا الاَوَّلينَ لا اِلهَ اِلا اللّهُ وَحْدَهُ وَحْدَهُ وَحْدَهُ اَنْجَزَ وَعْدَهُ وَ\nنَصَرَ عَبْدَهُ وَ اَعَزَّ جُنْدَهُ وَ هَزَمَ الاْحْزابَ وَحْدَهُ فَلَهُ الْمُلْكُ وَ لَهُ\nالْحَمْدُ يُحْيى وَ يُميتُ وَ يُميتُ وَ يُحْيى وَ هُوَ حَىُّ لايَمُوتُ بِيَدِهِ\nالْخَيْرُ وَ هُوَ عَلى كُلِّ شَىْءٍ قَديرٌ",
+                "type": "Text"
+              },
+              {
+                "content": "اس کے بعد کہیں:",
+                "type": "AboutText"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "خدا کے سوا کوئی معبود نہیں، وہ معبود یکتا ہے اور ہم اس کے فرمانبردار ہیں، خدا کے سوا کوئی معبود نہیں اور ہم اسی کی عبادت کرتے ہیں، اپنے دین اور اطاعت کو اسی کے لئے خالص کرتے ہوئے، اگرچہ یہ مشرکین کو ناگوار گزرے، خدا کے سوا کوئی معبود نہیں جو ہمارا رب ہے اور ہمارے پہلے باپ داداؤں کا رب ہے۔ خدا کے سوا کوئی معبود نہیں، وہ اکیلا، اکیلا اور تنہا ہے، اس نے اپنا وعدہ پورا کیا، اپنے بندوں کی مدد کی اپنے لشکر کو عزت دی اور تنہا مخالف لشکروں کو شکست دی۔ پس بادشاہی اور تعریف اسی کے لئے ہے۔ وہ زندگی دیتا ہے اور موت دیتا ہے اور وہ موت دیتا ہے اور زندگی دیتا ہے اور وہ ایسا زندہ ہے جس کو موت نہیں، تمام بھلائی اسی کے ہاتھ میں ہے اور وہ ہر چیز پر قادر ہے۔",
+                "type": "Translate"
+              },
+              {
+                "content": "اس کے بعد کہیں:",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nاَسْتَغْفِرُ اللّهَ الَّذى لا اِلهَ اِلاّ هُوَ\nالْحَىُّ الْقَيُّومُ وَ اَتُوبُ اِلَيْهِ ",
+                "type": "Text"
+              },
+              {
+                "content": "پھر کہیں:",
+                "type": "AboutText"
+              },
+              {
+                "content": " اَللَّهُمَّ اهْدِنى مِنْ عِنْدِكَ وَ اَفِضْ\nعَلَىَّ مِنْ فَضْلِكَ وَ انْشُرْ عَلَىَّ مِنْ رَحْمَتِكَ وَ أَنْزِلْ عَلَىَّ مِنْ بَرَكاتِكَ\nسُبْحانَكَ لا إِلهَ إِلاّ اَنْتَ إِغْفِرْ لى ذُنُوبى كُلَّها جَميعاً فَاِنَّهُ لا يَغْفِرُ\nالذُّنُوبَ كُلَّها جَميعاً إلاّ أَنْتَ اَللّهُمَّ اِنّى أَسْئَلُكَ مِنْ كُلِّ خَيْرٍ أَحاطَ بِهِ\nعِلْمُكَ وَ أَعُوذُ بِكَ مِنْ كُلِّ شَرٍّ اَحاطَ بِهِ عِلْمُكَ .",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "میں اس خدا سے بخشش مانگتا ہوں جس کے سوا کوئی معبود نہیں، وہ زندہ و جاوید ہے، اور میں اس کی بارگاہ میں توبہ کرتا ہوں، اے اللہ! مجھے اپنی طرف سے ہدایت عطا فرما، اور مجھ پر اپنا فضل بکھیر، اور اپنی رحمت مجھ پر پھیلا دے، اور اپنی برکات مجھ پر نازل فرما، تو پاک ہے، تیرے سوا کوئی معبود نہیں، میرے تمام گناہ بخش دے کیونکہ تیرے سوا کوئی گناہوں کو معاف نہیں کر سکتا، اے اللہ! میں تجھ سے ہر اس خیر کا سوال کرتا ہوں جس کو تیرے علم نے گھیرا ہوا ہے، اور میں ہر اس شر سے تیری پناہ مانگتا ہوں جس کو تیرے علم نے احاطہ کیا ہوا ہے۔",
+                "type": "Translate"
+              },
+              {
+                "content": "\nاَللَّهُمَّ اِنّى أَسْئَلُكَ\nعافِيَتَكَ فى اُمُورى كُلِّها وَ أَعُوذُ بِكَ مِنْ خِزْىِ الْدُّنْيا وَعَذابِ\nالْاخِرَةِ وَأَعُوذُ بِوَجْهِكَ الْكَريمِ وَ عِزَّتِكَ الَّتى لا تُرامُ وَ قُدْرَتِكَ\nالَّتى لا يَمْتَنِعُ مِنْها شَىْءٌ مِنْ شَرِّ الْدُّنْيا وَ الْاخِرَةِ وَ مِنْ شَرِّ الْأَوْجاعِ\nكُلِّها وَمِنْ شَرِّ كُلِّ دابَّةٍ أَنْتَ اخِذٌ بِناصِيَتِها اِنَّ رَبّى عَلى صِراطٍ\nمُسْتَقيمٍ وَ لا حَوْلَ وَ لا قُوَّةَ اِلاّ بِاللّهِ الْعَلِىِّ الْعَظيمِ تَوَّكَلْتُ عَلَى الْحَىِّ\nالَّذى لا يَمُوتُ وَ الْحَمْدُ لِلّهِ الَّذى لَمْ يَتَّخِذْ وَلَداً وَ لَمْ يَكُنْ لَهُ شَريكٌ\nفِى الْمُلْكِ وَ لَمْ يَكُنْ لَهُ وَلِىُّ مِنَ الذُّلِّ وَ كَبِّرْهُ تَكْبيراً\n",
+                "type": "Text"
+              },
+              {
+                "content": "اے اللہ! میں اپنے تمام امور میں تجھ سے عافیت کا سوال کرتا ہوں، اور دنیا کی رسوائی اور آخرت کے عذاب سے تیری پناہ مانگتا ہوں، اور میں تیری معزز ذات، اور تیری ناقابل تسخیر عزت، اور تیری اس قدرت کے ذریعے جس سے کوئی چیز بچ نہیں سکتی، دنیا اور آخرت کے شر سے پناہ مانگتا ہوں، اور تمام بیماریوں کے شر سے، اور ہر اس جاندار کے شر سے جس کی پیشانی تیرے قبضے میں ہے، بے شک میرا رب سیدھے راستے پر ہے، بلند و برتر اللہ کے سوا کوئی طاقت اور قوت نہیں، میں اس زندہ جاوید پر توکل کرتا ہوں جس کو موت نہیں، تمام تعریفیں اس اللہ کے لئے ہیں جس نے کسی کو بیٹا نہیں بنایا اور نہ ہی بادشاہی میں اس کا کوئی شریک ہے اور نہ ہی ذلت سے بچانے کے لئے اس کا کوئی مددگار ہے، اور اس کی خوب بڑائی بیان کرو۔",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "پھر حضرت زہرا (سلام اللہ علیہا) کی تسبیح پڑھیں (جس کی کیفیت یہ ہے: 34 بار اللہ اکبر، 33 بار الحمد للہ، 33 بار سبحان اللہ) اور اپنی جگہ سے اٹھنے سے پہلے دس بار کہیں:",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nأَشْهَدُ أَنْ لَا إِلهَ إِلّا اللهُ وَحْدَهُ لَا شَريكَ لَهُ إِلهاً واحِداً أَحَداً فَرْداً\nصَمَداً لَمْ يَتَّخِذْ صاحِبَةً وَ لا وَلَداً\n",
+                "type": "Text"
+              },
+              {
+                "content": "میں گواہی دیتا ہوں کہ یکتا اللہ کے سوا کوئی معبود نہیں، اس کا کوئی شریک نہیں، وہی معبود یکتا و تنہا ہے، بے مثال اور بے نیاز ہے، اور اس نے کبھی کوئی شریک حیات یا اولاد نہیں بنائی۔",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "مؤلف کہتے ہیں: اس ذکر (أشھد أن لا إلہ إلا اللہ۔۔۔) کی بہت زیادہ فضیلت روایت میں آئی ہے، خاص طور پر صبح و شام کی نماز کے بعد اور طلوع و غروب آفتاب کے وقت۔ اس کے بعد کہیں:",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nسُبْحَانَ اللهُ كُلَّما سَبَّحَ اللهَ شَى ءٌ وَ كَما يُحِبُّ اللهُ اَنْ يُسَبَّحَ وَ كَما هُوَ\nأَهْلُهُ وَ كما يَنْبَغى لِكَرَمِ وَجْهِهِ وَ عِزِّ جَلالِهِ وَ الْحَمْدُ لِلهِ كُلَّما حَمِدَ اللهَ\nشَى ءٌ وَ كَما يُحِبُّ اللهُ أَنْ يُحْمَدَ وَ كَما هُوَ أَهْلُهُ وَ كَما يَنْبَغى لِكَرَمِ\nوَجْهِهِ وَ عِزِّ جَلالِهِ وَ لا إِلهَ إِلَّا اللهُ كُلَّما هَلَّلَ اللهَ شَى ءٌ وَ كَما يُحِبُّ\nاللهُ اَنْ يُهَلَّلَ وَ كَما هُوَ اَهْلُهُ وَ كَما يَنْبَغى لِكَرَمِ وَجْهِهِ وَ عِزِّ جَلالِهِ.",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "منزه ہے خدا هر زمان کہ چيزى او را تنزيه كند، و آنچنان کہ دوست دارد تنزيه شود، و آنچنان کہ او شايسته آن ہے،\nو آنگونه کہ براى مقام والا و رفعت جلالش سزاوار ہے و سپاس خداى را هر زمان کہ او را چيزى سپاس کہتا ہے و همان طور\nکہ دوست دارد سپاسش گويند و چنان کہ شايسته آن ہے و آنگونه کہ براى مقام والا و شكوه رفيعش سزاوار ہے. معبودی\nجز خدا نيست هر آن کہ چيزى کو يگانه پرستی اش بانگ برآرد و همان طور کہ دوست دارد يگانه شمرده شود و آنگونه کہ سزاوار ہے وآنگونه کہ شايسته مقام والا و عزت رفيع او ہے. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\nوَ اللهُ أَكْبَرُ كُلَّما كَبَّرَ اللهَ شَى ءٌ وَ كَما يُحِبُّ اللهُ أَنْ يُكَبَّرَ وَ كَما هُوَ اَهْلُهُ وَ كَما يَنْبَغى لِكَرَمِ وَجْهِهِ وَ عِزِّ جَلالِهِ سُبْحانَ اللّهِ وَ الْحَمْدُ لِلّهِ وَ لا اِلهَ اِلا اللّهُ وَ اللّهُ اَكْبَرُ عَلى كُلِّ نِعْمَةٍ اَنْعَمَ بِها عَلَىَّ وَ عَلى كُلِّ اَحَدٍ مِنْ خَلْقِهِ مِمَّنْ كانَ اَوْ يَكُونُ اِلى يَوْمِ الْقِيمَةِ اَللَّهُمَّ اِنّى اَسْئَلُكَ اَنْ تُصَلِّىَ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ اَسْئَلُكَ مِنْ خَيْرِ ما اَرْجُو وَ خَيْرِ ما لا اَرْجُو وَ اَعُوذُ بِكَ مِنْ شَرِّ ما اَحْذَرُ وَ مِنْ شَرِّ ما لا اَحْذَرُ.",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " و (خدا بزرگتر ہے) هر زمان کہ او را چيزى کو بزرگى ياد كند و همان طور کہ دوست دارد\nکو بزرگى ياد شود و چنان کہ او شايسته آن ہے و آنگونه کہ براى مقام والا و عزت رفيعش سزاوار ہے. منزه ہے خدا و سپاس تنها خدا\nراست، و معبودى جز خدا نيست، و خدا بزرگ تر ہے براى هر نعمتى کہ کو من و کو هر ایک از مخلوقاتش عطا\nنموده، چه آنان کہ بوده اند و چه آنان کہ تا روز قيامت خواهند آمد. خدايا از تو میخواهم کہ بر محمّد و خاندان محمّد درود\nفرستى، و از تو از بهترين چيزیكه اميد دارم و از بهترين چيزیكه اميد ندارم درخواست میكنم، و کو تو پناه میآورم از شر\nآنچه کہ پرهيز میكنم و از شر آنچه کہ نمی پرهيزم. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "پھر سوره حمد، آية الكرسى [آيه 255 سوره بقره] ، شهد اللّه [آل عمران: 18]\nقل الّلهم مالك الملك [آل عمران: 26] و آيه سخره را کہ عبارت از تین آيه از سوره اعراف [56 - 54] کہ اوّل آن «إِنّ رَبَّكُمْ اللّه» و آخر آن «من المحسنين» ہے میخوانى، و پھر تین مرتبه میگويى: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nسُبْحانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمّا يَصِفُونَ وَ سَلامٌ عَلَى\nالْمُرْسَلينَ وَ الْحَمْدُ لِلّهِ رَبِّ الْعالَمينَ ",
+                "type": "Text"
+              },
+              {
+                "content": "پس تین مرتبه مى گوئى: ",
+                "type": "AboutText"
+              },
+              {
+                "content": " اَللهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ الِ مُحَمَّدٍ وَ اجْعَلْ لى مِنْ أَمْرى فَرَجَاً وَ مَخْرَجَاً وَ\nارْزُقْنى مِنْ حَيْثُ اَحْتَسِبُ وَ مِنْ حَيْثُ لا اَحْتَسِبُ\n",
+                "type": "Text"
+              },
+              {
+                "content": "منزّه ہے پروردگارت، پروردگار عزّت، از آنچه مشركان کو او نسبت میدهند، و درود بر فرستادگان او و سپاس براى خدا پروردگار جهانيان",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "پس تین مرتبه میگويى: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "خدايا! درود فرست بر محمّد و خاندان محمّد و در كارم براى من گشايش و راه نجات قرار ده\nو مرا از جانبى كه گمان میبرم و از جانبى كه گمان نمیبرم روزى عنايت كن. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "و اين دعايى ہے کہ جبرئيل آن را کو حضرت يوسف عليه السّلام هنگامیكه آن حضرت میں زندان تھا، تعليم داد. پھر کے ساتھ دست\nراست محاسنت را بگير، و كف دست چپت را کو سوى آسمان بگشا و سات مرتبه بگو: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nيا رَبَّ مُحَمَّدٍ وَ الِ مُحَمَّدٍ صَلِّ عَلى مُحَمَّدٍ وَ الِ مُحَمَّدٍ وَ عَجِّلْ\nفَرَجَ آلِ مُحَمَّدٍ",
+                "type": "Text"
+              },
+              {
+                "content": " و باز به همان حال سه مرتبه بگو",
+                "type": "AboutText"
+              },
+              {
+                "content": " يا ذَا الْجَلالِ وَ الاِكْرامِ صَلِّ\nعَلى مُحَمَّدٍ وَ الِ مُحَمَّدٍ وَ ارْحَمْنى وَ اَجِرْنى مِنَ النّارِ.",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "اى پروردگار محمّد و خاندان محمّد، درود فرست بر محمّد و خاندان محمّد، و فرج خاندان محمّد را نزديك فرما.\nاى صاحب عظمت و بزرگوارى! ، بر محمّد و خاندان محمّد درود فرست، و به من رحم كن و از آتش دوزخ پناهم ده. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "پس دوازده مرتبه سوره» توحيد «را میخوانى و میگويى: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nاَللَّهُمَّ إِنّى اَسْئَلُكَ بِاسْمِكَ الْمَكْنُونِ\nالْمَخْزُونِ الْطّاهِرِ الْطُّهْرِ الْمُبارَكِ وَ أَسْئَلُكَ بِاسْمِكَ الْعَظيمِ وَ\nسُلْطانِكَ الْقَديمِ يا واهِبَ الْعَطايا وَ يَا مُطْلِقَ الْأُسَارَى وَ يا فَكّاكََ\nالرِّقابِ مِنَ الْنّارِ أَسْئَلُكَ أَنْ تُصَلِّىَ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ وَ اَنْ\nتُعْتِقَ رَقَبَتى مِنَ النّارِ وَ اَنْ تُخْرِجَنى مِنَ الدُّنْيا سَالِماً وَ [اَنْ] تُدْخِلَنِى\nالْجَنَّةَ امِنَاً وَ أَنْ تَجْعَلَ دُعاَّئى أَوَّلَهُ فَلاحَاً وَ أُوْسَطَهُ نَجَاحاً وَ اخِرَهُ\nصَلاحاً إِنَّكَ اَنْتَ عَلاّمُُ الْغُيُوبِ\n",
+                "type": "Text"
+              },
+              {
+                "content": " خدايا از تو میخواهم به نام پوشيده و پنهان\nو پاكيزه و پاكی بخش و مباركت و نيز به نام بزرگ و سلطنت ديرينه ات از تو خواستارم اى بخشنده\nعطاها! و اى آزادیبخش اسيران و اى رهاننده انسانها از آتش، از تو میخواهم كه بر محمد و\nخاندان محمد درود فرستى و گردن مرا از آتش دوزخ رهايى بخشى، و از سراى دنيا همراه با سلامت ايمان بيرون برى و درامنيت\nوارد بهشت نمايى. آغاز دعايم را رستگارى و ميانش را موفقيت، و پايانش را صلاح، قرار دهى. همانا\nتويى داناى نهانها. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "و در «صحيفه علويّه» آمده كه دنبال هر فريضه چنين میخوانى: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nيا\nمَنْ لا يَشْغَلُهُ سَمْعٌ عَنْ سَمْعٍ وَ يا مَنْ لا يُغَلِّطُهُ السّائِلُونَ وَ يا مَنْ\nلايُبْرِمُهُ اِلْحاحُ المُلِحِّينَ اَذِقْنى بَرْدَ عَفْوِكَ وَ حَلاوَةَ رَحْمَتِكَ وَ\nمَغْفِرَتِكَ و نيز مى گوئى اِلهى هذِهِ صَلوتى صَلَّيْتُها لا لِحاجَةٍ مِنْكَ\nإِلَيْها وَ لا رَغْبَةٍ مِنْكَ فيها إِلاّ تَعْظيماً وَ طاعَةً وَإِجابَةً لَكَ إِلى ما\nأَمَرْتَنى بِهِ إِلَهى إِنْ كانَ فيها خَلَلٌ أَوْ نَقْصٌ مِنْ رُكُوعِها أَوْ\nسُجُودِها فَلا تُؤ اخِذْنى وَ تَفَضَّلْ عَلَىَّ بِالْقَبُولِ وَ الْغُفْرانِ .",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " اى كسیكه گوش دادن کو سخنى از گوش دادن کو سخنى ديگر او را باز نمیدارد و درخواست بیشمار خواهندگان کو اشتباهش نمی اندازد، اى آنكه\nاصرار اصرار كنندگان آزرده و خسته ات نمیكند، بچشان مرا از خنكى گذشت و شيرينى رحمت و آمرزشت. معبودا اين\nہے نماز من، آنرا بجا آوردم نو کو خاطر نياز و رغبتى از سوى تو کو آن، بلكه تنها از جهت تعظيم و اطاعت دستور و\nاجابت آنچه کہ مرا کو آن فرمان دادى معبودا اگر عيب و نقصى میں ركوع و سجودش\nتھا مرا مؤاخذه مكن و بر من کے ساتھ پذيرش عبادات و آمرزش كاستيها تفضّل كن. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " و نيز در پى هر نماز، اين دعا را كه پيامبر صلى اللّه عليه و آله و سلّم براى تقويت حافظه به امير المؤمنين تعليم داد میخوانى: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nسُبْحانَ مَنْ لَايَعْتَدى عَلى أَهْلِ مَمْلَكَتِهِ سُبْحانَ مَنْ لا يَأْخُذُ\nاَهْلَ الْأَرْضِ بِاَلْوانِ الْعَذابِ سُبْحانَ الرَّؤُفِ الرَّحيمِ اَللّهُمَّ اجْعَلْ\nلى فى قَلْبى نُوراً وَ بَصَراً وَ فَهْماً وَ عِلْماً إِنَّكَ عَلَى كُلِّشَى ءٍ قَديرٌ .",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " منزه ہے پادشاهى کہ بر\nزيردستانش ستم نمیكند، منزه ہے خدايى کہ اهل زمين را کو عذاب هاى رنگارنگ گرفتار نمی نمايد، منزه ہے\nآن خداى بنده نواز مهربان. خدايا قرار دس میں دلم نور و بينايى و فهم و دانش، مسلّما\nتو بر هر چيز توانايى. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " در مصباح كفعمى آمده: بعد از نمازها سه مرتبه بگو: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nاُعيذُ نَفْسى وَ دينى وَ اَهْلى وَ\nمالى وَ وَلَدى وَ اِخْوانى فى دينى وَ ما رَزَقَنى رَبّى وَ خَواتيمَ\nعَمَلى وَ مَنْ يَعْنينى أَمْرُهُ بِاللّهِ الْواحِدِ الأَحَدِ الْصَّمَدِ الَّذى لَمْ يَلِدْ وَ\nلَمْ يُولَدْ وَ لَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ وَ بِرَبِّ الْفَلَقِ مِنْ شَرِّ ما خَلَقَ وَ مِنْ\nشَرِّ غاسِقٍ إِذا وَقَبَ وَ مِنْ شَرِّ النَّفّاثاتِ فِى الْعُقَدِ وَ مِنْ شَرِّ حاسِدٍ إِذا\nحَسَدَ وَ بِرَبِّ النّاسِ مَلِكِ النّاسِ إِلهِ الْنّاسِِ مِنْ شَرِّ الْوَسْواسِ\nالْخَنّاسِِ الَّذى يُوَسْوِسُ فى صُدُورِ الْنّاسِِ مِنَ الْجِنَّةِ وَ الْنّاسِِ.",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " خودم و دينم و خانواده و ثروتم و فرزند و برادران دينی ام و آنچه را پروردگارم\nروزيم نموده و سرانجام كارم و هركس کہ سرپرستى او کو دست من ہے، همه و همه را میں پناه خداى يگانه و يكتاى بی نياز\nقرار میدهم، خدايى کہ نزاده ہے و زاييده نشده ہے و كسى همتاى او نيست، و (پناه میبرم) کو آفريدگار سپيده دم از شر آنچه آفريد و از شر شب تاريك\nتب کہ درآيد و از شر زنان ساحر دهنده میں گره ها و از شر حسود زمانى کہ حسد ورزد و پناه میبرم\nکو پروردگار آدميان، فرمانرواى آدميان، معبود آدميان، از شر شيطان مرموزى کہ میں سينه هاى مردمان وسوسه\nمیكند، چه شيطان جنى و چه شيطان انسى. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " و از دست نوشته شيخ شهيد نقل ہے کہ حضرت رسول صلى اللّه عليه و آله و سلّم فرمود: هركه\nمیخواهد خداوند میں قيامت اعمال زشتش را بر او عرض نكند و پرونده گناهانش را نگشايد، بايد اين دعا را بعد از هر نماز بخواند: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nاَللهُمَّ إِنَّ مَغْفِرَتَكَ أَرْجى مِنْ عَمَلى وَ إِنَّ رَحْمَتَكَ أَوْسَعُ مِنْ ذَنْبى\nاَللّهُمَّ إِنْ كانَ ذَنْبى عِنْدَكَ عَظيماً فَعَفْوُكَ اَعْظَمُ مِنْ ذَنْبى اَللّهُمَّ اِنْ\nلَمْ أَكُنْ اَهْلاً أَنْ أَبْلُغَ رَحْمَتَكَ فَرَحْمَتُكَ اَهْلٌ اَنْ تَبْلُغَنى وَ تَسَعَنى\nلِاَنَّها وَسِعَتْ كُلَّشَىْءٍ بِرَحْمَتِكَ ياأَرْحَمَ الْرّاحِمينَ\n",
+                "type": "Text"
+              },
+              {
+                "content": " بار خدايا! همانا آمرزش تو از عمل من اميدواركننده تر و مهربانى تو از گناه من گسترده تر ہے، بار خدايا! اگر\nگناهانم نزد تو بزرگ ہے، گذشت تو از گناه من بزرگتر ہے، بار خدايا! اگرچه شايسته دست يابى رحمت تو نيستم، امّا رحمت تو سزاوار ہے کو من برسد و مرا فرا گيرد، زيرا رحمتت همه چيز را فرا گرفته ہے،\nکو حق مهربانيت اى مهربان ترين مهربانان! . ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " و از ابن بابويه روايت شده: چون از تسبيح حضرت فاطمه عليها السّلام فارغ شدی\nبگو: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nاَللًّهُمَّ أَنْتَ الْسَّلامُ\nوَ مِنْكَ الْسَّلامُ وَ لَكَ الْسَّلامُ وَ إِلَيْكَ يَعُودُ الْسَّلامُ سُبْحانَ رَبِّكَ رَبِّ\nالْعِزَّةِ عَمّا يَصِفُونَ وَ سَلامٌ عَلَى الْمُرْسَلينَ وَ الْحَمْدُ لِلّهِ رَبِّ\nالْعالَمينَ اَلسَّلامُ عَلَيْكَ اَيُّهَا النَّبِىُّ وَ رَحْمَةُ اللّهِ وَ بَرَكاتُهُ السَّلامُ\nعَلَى الأَئِمَّةِ الْهادينَ الْمَهْدِيّينَ اَلسَّلامُ عَلى جَميعِ أَنْبِياَّءِ اللّهِ وَ\nرُسُلِهِ وَ مَلاَّئِكَتِهِ اَلسَّلامُ عَلَيْنا وَ عَلى عِبادِ اللّهِ الْصّالِحينَ اَلسَّلامُ\nعَلى عَلِىٍّ اَميرِ الْمُؤْمِنينَ،\n",
+                "type": "Text"
+              },
+              {
+                "content": "خدايا! تويى خداى سلامت «بی عيب» ، و سلامت تنها از تو سرچشمه میگيرد و تنها از آن توست و کو سوى تو باز میگردد\nمنزه ہے پروردگارت پروردگار صاحب عزت از صفاتى کہ مشركان برايش بيان میكنند، و سلام بر فرستادگان او و ستايش خداى را ہے\nپروردگار جهانيان، سلام و بركات خدا بر تو اى پيامبر! ، سلام بر امامان\nهدايت گر، هدايت يافته، درود و سلام بر همه پيامبران خدا و فرستادگان و فرشتگانش، سلام\nبر ما و بر بندگان شايسته خدا، سلام بر على ع امير اهل ايمان، ",
+                "type": "Translate"
+              },
+              {
+                "content": "\nاَلسَّلامُ عَلَى الْحَسَنِ وَ الْحُسَيْنِ سَيِّدَىْ\nشَبابِ أَهْلِ الْجَنَّةِ أَجْمَعينَ اَلسَّلامُ عَلى عَلِىِّ بْنِ الْحُسَيْنِ زَيْنِ\nالْعابِدينَ اَلسَّلامُ عَلى مُحَمَّدِ بْنِ عَلِىٍّ باقِرِ عِلْمِ النَّبِيّينَ اَلسَّلامُ عَلى\nجَعْفَرِ بْنِ مُحَمَّدٍ الصّادِقِ اَلسَّلام عَلى مُوسَى بْنِ جَعْفَرٍ الْكاظِمِ\nاَلسَّلامُ عَلى عَلِىِّ بْنِ مُوسَى الرِّضا اَلسَّلامُ عَلى مُحَمَّدِ بْنِ عَلِىٍّ\nالْجَوادِ اَلسَّلامُ عَلى عَلِىٍّ بْنِ مُحَمَّدٍ الْهادى اَلسَّلامُ عَلَى الْحَسَنِ بْنِ\nعَلِي الزَّكِىِّ الْعَسْكَرِىِّ اَلسَّلامُ عَلَى الْحُجَّةِ بْنِ الْحَسَنِ الْقاَّئِمِ\nالْمَهْدِىِّ صَلَواتُ اللّهِ عَلَيْهِمْ اَجْمَعينَ.",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " سلام بر حسن و\nحسين دو سرور تمام جوانان اهل بهشت، سلام بر على بن حسين\nزينت بخش عابدان، سلام بر محمد بن على شكافنده دانش انبياء، سلام بر جعفر بن\nمحمّد آن امام راستگو، سلام بر موسى بن جعفر آن امام فرو برنده خشم، سلام بر على بن موسی\nآن امام قانع و خشنود، سلام بر محمد بن على آن امام بخشنده، سلام بر على بن محمد آن امام هدايتگر، سلام\nبر حسن بن على آن پاكيزه دربند، سلام بر حجت بن الحسن آن امام قيام كننده\nهدايت شده، درود و سلام خدا بر تمام آنان باد. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " تب هر حاجت کہ دارى از خدا بخواه. شيخ كفعمى فرموده: کے بعد هر نمازى میگويى: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nرَضيتُ بِاللّهِ رَبّاً وبِالاِسْلامِ ديناً وَ بِمُحَمَّدٍ\nصَلَّى اللّهُ عَلَيْهِ وآلِهِ نَبِيّاً وَ بِعَلِىٍّ اِماماً وَ بِالْحَسَنِ وَ الْحُسَيْنِ وَ عَلِىٍّ\nوَ مُحَمَّدٍ وَ جَعْفَرٍ وَ مُوسى وَ عَلِىٍّ وَ مُحَمَّدٍ وَ عَلِىٍّ وَ الْحَسَنِ وَ\nالْخَلَفِ الصّالِحِ عَلَيْهِمُ السَّلامُ اَئِمَّةً وَ سادَةً وَ قادَةً بِهِمْ أَتَوَلّى وَ مِنْ\nأَعْدائِهِمْ أَتَبَرَّءُ پس سه مرتبه بگو: اَللًّهُمَّ اِنّى اَسْئَلُكَ الْعَفْوَ وَالْعافِيَةَ وَ\nالْمُعافاةَ فِى الدُّنْيا وَ الاْخِرَةِ .",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "خشنودم کو پروردگارى خدا، و ديانت اسلام، و نبوت محمد کہ درود خدا بر او و خاندانش باد،\nو امامت على، و کو حسن و حسين و على و محمد و جعفر و موسى و على و محمد\nو على و حسن و يادگار شايسته (حضرت مهدى) درود بر آنان باد، کہ امامان و سروران و پيشوايانم باشند\nکو آنان دوستى می ورزم و از دشمنانشان بيزارى می جويم",
+                "type": "Translate"
+              },
+              {
+                "content": " ",
+                "type": "Text"
+              },
+              {
+                "content": "پس تین مرتبه بگو: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "بار خدايا از تو بخشش و تندرستى و آسايش را در\nدنيا و آخرت خواستارم. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              }
+            ]
+          }
+        ],
+        "title": "پہلی فصل"
+      },
+      {
+        "articles": [
+          {
+            "href": "/mafatih3/تعقیب-نماز-ظهر-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
+            "title": "نماز ظہر کی تعقیبات",
+            "items": [
+              {
+                "content": " به دنبال نماز ظهر - چنان كه در كتاب مصباح المُتَهَجِّد آمده، بگو: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nلَا إِلَهَ إِلّا اللَّهُ الْعَظِيمُ الْحَلِيمُ لا إِلَهَ إِلا اللَّهُ رَبُّ الْعَرْشِ الْكَرِيمُ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ اللَّهُمَّ إِنِّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ وَ عَزَائِمَ مَغْفِرَتِكَ وَ الْغَنِيمَةَ مِنْ كُلِّ بِرٍّ وَ السَّلامَةَ مِنْ كُلِّ إِثْمٍ اللَّهُمَّ لا تَدَعْ لِي ذَنْبا إِلّا غَفَرْتَهُ وَ لَا هَمّا إِلّا فَرَّجْتَهُ وَ لَا سُقْماً إِلّا شَفَيْتَهُ وَ لَا عَيْباً إِلّا سَتَرْتَهُ وَ لَا رِزْقاً إِلّا بَسَطْتَهُ وَ لَا خَوْفاً إِلّا آمَنْتَهُ وَ لَا سُوءَاً إِلّا صَرَفْتَهُ وَ لَا حَاجَةً هِيَ لَكَ رِضاً وَ لِيَ فِيهَا صَلاحٌ إِلّا قَضَيْتَهَا يَا أَرْحَمَ الْرَّاحِمِينَ،\n",
+                "type": "Text"
+              },
+              {
+                "content": " معبودى جز خدا نيست، خداى بزرگ بردبار،\nمعبودى جز خدا نيست، پروردگار عرش آن پروردگار كريم، ستايش ويژه خداىِ پروردگارِ جهانيان ہے. خدايا از تو میخواهم مرا\nموفق کو انجام موجبات رحمت خويش و اسباب آمرزش خويش بگردانى و بهره مندى از هر كار نيك و سلامت از هر كار بدى را از تو\nمی طلبم. خدايا! بر من گناهى مگذار، جز آنكه بيامرزى و اندوهى منه جز آنكه از دلم بردارى و نو دردى مگر آنكه شفا دهی\nو نو عيبى مگر آنكه بپوشانى و نو رزقى مگر آنكه گسترده سازى و نو ترسى جز اينكه مرا از آن ايمنى دهى و نو پيش آمد بدى مگر آنكه آن را برگردانی\nو نو حاجتى کہ تو را میں آن رضايت و مرا میں آن مصلحت ہے مگر اينكه روا كنى اى مهربان ترين مهربانان، ",
+                "type": "Translate"
+              },
+              {
+                "content": "\nآمِينَ رَبَّ الْعَالَمِينَ و میگويى ده مرتبه بِاللَّهِ اعْتَصَمْتُ وَ بِاللَّهِ أَثِقُ وَ عَلَى اللَّهِ أَتَوَكَّلُ پس میگويى اللَّهُمَّ إِنْ عَظُمَتْ ذُنُوبِي فَأَنْتَ أَعْظَمُ وَ إِنْ كَبُرَ [كَثُرَ] تَفْرِيطِي فَأَنْتَ أَكْبَرُ وَ إِنْ دَامَ بُخْلِي فَأَنْتَ أَجْوَدُ اللَّهُمَّ اغْفِرْ لِي عَظِيمَ ذُنُوبِي بِعَظِيمِ عَفْوِكَ وَ كَثِيرَ تَفْرِيطِي بِظَاهِرِ كَرَمِكَ وَ اقْمَعْ بُخْلِي بِفَضْلِ جُودِكَ اللَّهُمَّ مَا بِنَا مِنْ نِعْمَةٍ فَمِنْكَ لَا إِلَهَ إِلّا أَنْتَ أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ\n",
+                "type": "Text"
+              },
+              {
+                "content": " دعايم را مستجاب\nكن اى پروردگار جهانيان. و دس مرتبه میگويى: کو ريسمان خدا چنگ میزنم و بر خدا توكل میكنم و کو خداوند اعتماد مینمايم بار خدايا اگر گناهانم بزرگ ہے تو بزرگترى، و اگر كوتاهى میں بندگی ام بزرگ ہے تو بزرگتری\nو اگر همواره بخل می ورزم تو بخشنده ترى. خدايا بزرگى گناهانم را کو بزرگى گذشتت، و بسيارى كوتاهی ام\nرا کو بزرگوارى آشكارت بيامرز و بخل مرا کے ساتھ جود سرشارت ريشه كن نما. بار الها! هر نعمتى کہ میں دست ماست از سوى توست، معبودى جز\nتو نيست، از تو آمرزش میخواهم و کو سوى تو باز می گردم. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              }
+            ]
+          },
+          {
+            "href": "/mafatih4/تعقیب-نماز-عصر-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
+            "title": "نماز عصر کی تعقیبات",
+            "items": [
+              {
+                "content": "أَسْتَغْفِرُ اللَّهَ الَّذِي لا إِلَهَ إِلا هُوَ الْحَيُّ الْقَيُّومُ الرَّحْمَنُ الرَّحِيمُ ذُو الْجَلالِ وَ الْإِكْرَامِ وَ أَسْأَلُهُ أَنْ يَتُوبَ عَلَيَّ تَوْبَةَ عَبْدٍ ذَلِيلٍ خَاضِعٍ فَقِيرٍ بَائِسٍ مِسْكِينٍ مُسْتَكِينٍ مُسْتَجِيرٍ لا يَمْلِكُ لِنَفْسِهِ نَفْعَاً وَ لا ضَرّا وَ لا مَوْتاً وَ لا حَيَاةً وَ لا نُشُوراً پس میگويى اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ نَفْسٍ لا تَشْبَعُ وَ مِنْ قَلْبٍ لا يَخْشَعُ وَ مِنْ عِلْمٍ لا يَنْفَعُ،\n",
+                "type": "Text"
+              },
+              {
+                "content": " از خدايى کہ معبودى جز او نيست آن زنده پاينده و بخشنده مهربان، آن خداوند داراى عظمت و بزرگواری\nآمرزش میجويم، و از او میخواهم کہ توبه ام را بپذيرد، توبه بنده ی خوار، فروتن، فقیر، بينوا پريشان\nزمين گير و پناهنده اى کہ سود و زيان و مرگ و زندگى و رستاخيز خويش را میں اختيار ندارد. پھر میگويى:\nخدايا کو تو پناه می آورم از نفسى کہ سير نمی شود و از دلى کہ بيم برنمی دارد و از دانشى کہ سود نمی بخشد، ",
+                "type": "Translate"
+              },
+              {
+                "content": "\nوَ مِنْ صَلاةٍ لا تُرْفَعُ وَ مِنْ دُعَاءٍ لا يُسْمَعُ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْيُسْرَ بَعْدَ الْعُسْرِ وَ الْفَرَجَ بَعْدَ الْكَرْبِ وَ الرَّخَاءَ بَعْدَ الشِّدَّةِ اللَّهُمَّ مَا بِنَا مِنْ نِعْمَةٍ فَمِنْكَ لا إِلَهَ إِلا أَنْتَ أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ.",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " و از\nنمازى کہ اوج نمی گيرد و از دعايى کہ مستجاب نمی شود. خدايا! آسانى کے بعد سختى و گشايش کے بعد گرفتاری\nو آسايش کے بعد مشقت را از تو خواستارم. خدايا هر آن نعمتى کہ میں دست ماست از جانب توست، معبودى جز تو نيست\nاز تو بخشش گناهانم را میخواهم و کو سوى تو باز میگردم. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "از حضرت امام صادق عليه السّلام روايت شده: هركه کے بعد نماز عصر هفتاد مرتبه إِسْتغفار كند، حق تعالى هفتصد گناه او را بيامرزد، و از حضرت امام جواد عليه السّلام روايت شده: كسیكه کے بعد نماز عصر دس مرتبه سوره قدر را بخواند، میں آن روز، همانند\nاعمال خلايق بر او بگذرد. و خواندن دعاى «عشرات» میں هر صبح و شام مستحب ہے و بهترين زمان برای\nخوان آن بعد از نماز عصر روز جمعه ہے. اين دعا بعدا ذكر خواهد ہوا. ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              }
+            ]
+          },
+          {
+            "href": "/mafatih5/تعقیب-نماز-مغرب-کلیات-مفاتیح-الجنان-با-ترجمه-استاد-حسین-انصاریان",
+            "title": "نماز مغرب کی تعقیبات",
+            "items": [
+              {
+                "content": "إِنَّ اللَّهَ وَ مَلائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ ءَامَنُوا صَلُّوا عَلَيْهِ وَ سَلِّمُوا تَسْلِيماً اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ النَّبِيِّ وَ عَلَى ذُرِّيَّتِهِ وَ عَلَى أَهْلِ بَيْتِهِ\n",
+                "type": "Text"
+              },
+              {
+                "content": " همانا خدا و فرشتگانش بر پيامبر (ص) درود میفرستند، اى كسانیكه ايمان آورده ايد بر او درود فرستيد و سلام خاص خويش\nرا نثار وى كنيد. خدايا بر محمّد پيامبر و فرزندان او و خاندانش درود فرست. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " پس سات مرتبه میگويى ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ وَ لا حَوْلَ وَ لا قُوَّةَ إِلّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ.",
+                "type": "Text"
+              },
+              {
+                "content": "",
+                "type": "Text"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " کو نام خدا کہ رحمتش بسيار و مهربانی اش هميشگى ہے\nو هيچ نيرو و توان نيست جز آنكه کو خداى بلندمرتبه بزرگ وابسته ہے. ",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": "اور تین مرتبہ کہیں:",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nالْحَمْدُ لِلَّهِ الَّذِي يَفْعَلُ مَا يَشَاءُ وَ لا يَفْعَلُ مَا يَشَاءُ غَيْرُهُ پس میگويى سُبْحَانَكَ لا إِلَهَ إِلّا أَنْتَ اغْفِرْ لِي ذُنُوبِي كُلَّهَا جَمِيعا فَإِنَّهُ لا يَغْفِرُ الذُّنُوبَ كُلَّهَا جَمِيعاً إِلّا أَنْتَ:\n",
+                "type": "Text"
+              },
+              {
+                "content": "سپاس خداى را كه هرچه بخواهد میكند\nو جز او نتواند هرچه بخواهد انجام دهد. پاك و منزهى تو، معبودى جز تو نيست، همه و همه گناهانم را\nبيامرز زيرا به راستى همه و همه گناهانم را جز تو كسى نمیآمرزد",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " پھر نافله مغرب را کو جا میآورى کہ دو نماز دو ركعتى ہے و بين آن دو نماز سخن مگو. شيخ فرموده: روايت\nشده: کہ میں ركعت اول سوره  «قل يا ايها الكافرون»  و میں ركعت دوم سوره  «قل هو اللّه احد»  خوانده شود و میں دو ركعت ديگر هر سوره ای\nرا کہ بخواهد. و روايت شده کہ حضرت امام هادى عليه السّلام میں ركعت سوم (از آن چار ركعت نماز نافله) سوره «حمد» و آيات اول سوره «حديد»\nتا  «و هو عليم بذات الصّدور»  و میں ركعت چهارم «حمد» و آيات آخر سوره «حشر»  «لو انزلنا هذ القران»  تا پايان سوره را قرائت\nمیكردند. و مستحب ہے میں سجده آخر نافله ها میں هر شب و کو ويژه میں شب جمعه، سات مرتبه خوانده شود: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nاللَّهُمَّ إِنِّي أَسْأَلُكَ بِوَجْهِكَ الْكَرِيمِ وَ اسْمِكَ الْعَظِيمِ وَ مُلْكِكَ الْقَدِيمِ أَنْ تُصَلِّيَ عَلَى مُحَمَّدٍ وَ آلِهِ وَ أَنْ تَغْفِرَ لِي ذَنْبِيَ الْعَظِيمَ إِنَّهُ لا يَغْفِرُ الْعَظِيمَ إِلا الْعَظِيمُ ،\n",
+                "type": "Text"
+              },
+              {
+                "content": " خدايا از تو می خواهم کو نگاه بزرگوارانه ات و نام بزرگ و فرمانروايى ديرينه ات کہ بر محمد و\nخاندان او درود فرستى و بيامرزى گناه بزرگ مرا، چه گناه بزرگ را جز آمرزگارى بزرگ نمی آمرزد\n",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " و چون از نافله\nفارغ شدى هرچه میخواهى تعقيب بخوان، پھر دس مرتبه بگو: ",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nمَا شَاءَ اللَّهُ لا قُوَّةَ إِلا بِاللَّهِ أَسْتَغْفِرُ اللَّهَ\n",
+                "type": "Text"
+              },
+              {
+                "content": " آنچه خدا بخواهد خواهد شد. هيچ نيرويى نيست مگ سرچشمه يافته از خدا، از خدا آمرزش مي طلبم",
+                "type": "Translate"
+              },
+              {
+                "content": "\n",
+                "type": "Text"
+              },
+              {
+                "content": " آنگاه بگو",
+                "type": "AboutText"
+              },
+              {
+                "content": "\nاللَّهُمَّ إِنِّي أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ وَ عَزَائِمَ مَغْفِرَتِكَ وَ النَّجَاةَ مِنَ النَّارِ وَ مِنْ كُلِّ بَلِيَّةٍ وَ الْفَوْزَ بِالْجَنَّةِ وَ الرِّضْوَانَ [الرِّضْوَانِ ] فِي دَارِ السَّلامِ وَ جِوَارَ [جِوَارِ] نَبِيِّكَ مُحَمَّدٍ عَلَيْهِ وَ آلِهِ السَّلامُ اللَّهُمَّ مَا بِنَا مِنْ نِعْمَةٍ فَمِنْكَ لا إِلَهَ إِلّا أَنْتَ أَسْتَغْفِرُكَ وَ أَتُوبُ إِلَيْكَ:\n",
+                "type": "Text"
+              },
+              {
+                "content": "خدايا! از تو موجبات رحمتت و اسباب آمرزش حتمی ات، و رهايى از آتش دوزخ\nو از هر بلا و كاميابى کو بهشت و خشنودى تو میں خانه امن آن جهان و همسايگى پيامبرت محمد (درود بر او و\nخاندانش) را خ
